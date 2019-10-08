@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noosoimeja.fireguy.top/sitemap.xml
